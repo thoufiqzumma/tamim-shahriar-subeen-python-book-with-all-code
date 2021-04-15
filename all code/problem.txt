@@ -1,0 +1,10 @@
+1. Swap Two Variable using python
+2. Multiplication Table using python
+3. Print Factorial of a number
+4. Prime Number Check
+5. GCD and LCM Value
+6. Positive and Negative Number
+7. Leap year Calculation
+8. even and odd finding
+9. Somobahu Trivuj or Equilateral triangle using Turtle
+10. Choturvuj or Quadrilateral Using Turtle using loop
